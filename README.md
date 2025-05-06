@@ -12,6 +12,8 @@ Healthtrackr.Api.Activity is a RESTful API for managing and retrieving user acti
 - Health check endpoint for liveness.
 - Swagger/OpenAPI documentation for easy API exploration.
 - CORS support for cross-origin requests.
+- this is also for demo purposes
+- this is not a production usecase 
 
 ## Endpoints
 
